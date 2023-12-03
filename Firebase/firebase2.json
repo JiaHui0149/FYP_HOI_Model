@@ -1,0 +1,21 @@
+{
+    "apiKey": "AIzaSyDn--nOWMHw0X7X0oxEpSmMAG1IFRJvI04",
+    "authDomain": "active-surveillance-system.firebaseapp.com",
+    "projectId": "active-surveillance-system",
+    "storageBucket": "active-surveillance-system.appspot.com",
+    "messagingSenderId": "31693845674",
+    "appId": "1:31693845674:web:9c6b1fef4d4ed6eb4c4cd3",
+    "measurementId": "G-1SNXKXW11D",
+    "type": "service_account",
+    "project_id": "active-surveillance-system",
+    "private_key_id": "14fd6c964d5442c23bf42f70358342fa2403eab7",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDB6jI4UnSeDGNu\nlaA4BE9karXyPrkRIvX0rRKbb1mnt1OLc0x9IE87XMU5N5zW8arZ7z+rMAEQidPa\ngsIF+XF/HlKGT+JHmCcHvRymNVJHKW6ghyNM5oqdxu57Bs32KZYWoQZDQ6oOOZYq\nemwbNz78aR1q4wwYQdIi7r0qHwr0/wA/gxJp4pH48FW1m0Dj91cqvluuVIXXXLtw\nCOC3b3ZAcFQbIIpjbY2fS2ty7sE8mrxzlOhBSnhrWDYqGNcyUKPB8NlmTVzzUcgJ\nmJCFCdeSgkIkNP6p2DrbAa7Z3nA1VVvvilLKoCqXRWXkoEeUwr6/Ns/r+ELVtm+n\nYqr937FjAgMBAAECggEAITk7bnvuIBAWTyGSqFZQte80ijMl6SI4yrmGeRwcW8hk\np31TKxMIkC6mWdXF6OvR7nH30iAw5oD+y67giD6DLBjpYbq5FbQjZ8eGa5GyLaAT\nJKzSpv/O2xZ00J5LVnQsk2b2WDr1HWfPayq7b/RItd1anXAWJ+fLFZIa1ecorO3h\nV/z7yK8qU7uiPuDKrneohEdxR+syM2WClqe7fvIjuQj/ttaGf37CUU4d57bK1FzJ\nCcp1g+4Bp2zji5Jfwf1MZeAgVJGm+05hkfBmI7UcD0U2IxRxHrMbrIj8gVoeABIG\nMwcnlZ0OufRh73QfIxeb8ZIgeX7o+X18woBUnn7EjQKBgQDn1vWX0abqkrLI0gQ1\nmCWb7gKR9jkmBJHLQNj/J+CE2n0M8g8yNyeM/WxO2oJUsSSzHDYr+ASxPRI409rS\nY3bz32Dh5K0EZqZgxjX/pQputn5wd/Hjn/yrFahk9Qxoxe58W6lbPfJunt/vQT9u\nT7jMejYC1247iKJp/+LKeuf5pwKBgQDWH3lXTybNyLXz+ZoKdUWQDp+MxNRRb19Q\ntkmPlRtb45RwdvpySfO5hTbq8VjWq9Ji+W0jNyWShxkKsrS58FRfKSXdy78oYyTh\nQ/SpMwDuWd8Ou9UG4X99fn8w93eiRWqstiwH0m3paJ9gL06BNu6WKxoJ589WqsiS\n9qrcrIWJ5QKBgQDZvhqLrGyIg59G3Xj2nR81hCUF0at6+W+05gLoIhvMqygnsHB1\nSTfsQ1gl9zPRN06wqh52zUoa7LDgjplGYASop3PmtU+Kgp5g5chxgiB6OwwltYGJ\nuAkm5gByUXSGMt/6DFzTRSscmjrYCv/4Kwf1hBKWOJ9fasSfqaTnZufYoQKBgB7g\n3RPNM1Bb0HmFlkRJ0yVKJpIbVG8F+53dG9Cb9R0UPbTWQ5m1tnMblebdtS0IDEf/\nplB8xGtUFjVnvg5ObSxn97D7j+6YFZpyvValJ044IaWzSq46WLNVSaxbE6KQFikg\nAEuEehs93jX1vIF/1XpMbu3cwxbBfDlNXyiBrKRNAoGASKX3WC60L7iLKcxLGSM1\nTfSxxTleIBU5YE22f0c9YhRmGOQkUesXm4Mkcr3k7+/4eVtCLfZQ3bK9Wo5qJNPT\nkK74jsTgobuOcHt61bZ/pGCQlJ2zMWNTCDMCEA5G7qS8A6KDOTCifbagrGMvgbQ1\nxrv9Xqz0lWQKOrDv1UDjthc=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wahk5@active-surveillance-system.iam.gserviceaccount.com",
+    "client_id": "101505844486334571371",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wahk5%40active-surveillance-system.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  

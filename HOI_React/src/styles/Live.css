@@ -1,0 +1,152 @@
+.live {
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    background-color: white;
+    font-family: "Product Sans", Calibri, "Trebuchet MS", sans-serif;
+  }
+
+/* ------ for mouse click ------- */
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    cursor: pointer;
+    padding: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .sidebar li:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .sidebar .selected {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .sidebar .clickable {
+    cursor: pointer;
+  }
+/* ------------------------------ */
+ 
+  .live-container {
+    display: flex;
+    align-items: stretch; /* Align items along the main axis */
+    background-color: #fff; /* Background color */
+    flex: 1; /* Grow to fill available space */
+  }
+  
+  .live-content {
+    padding: 50px; /* Add some space around the content */
+    flex: 1; /* Grow to fill available space */
+  }
+  
+  .live-video {
+    width: 100%;
+    max-width: 640px;
+    border: 2px solid #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .column{
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+    background-color: white;
+  }
+  
+  .headerContainer {
+    width: auto;
+    margin-left: 50px;
+  }
+  
+  .headerContainer .rightSide {
+    height: 100%;
+    flex: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .headerContainer h1 {
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    height: 60px;
+    font-weight: 50;
+    color: black;
+  }
+  
+  .headerContainer p {
+    padding: 0;
+    font-size: 40px;
+    font-weight: lighter;
+    color: black;
+  }
+  
+  .headerContainer button {
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: #121619;
+    height: 50px;
+    width: 180px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .headerContainer button:hover {
+    background-color: #07090a;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
+  
+  @media only screen and (max-width: 650px) {
+    .live {
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .headerContainer {
+      margin-left: 0px;
+      border-radius: 10px;
+      padding: 10px;
+      width: 80%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      background-color: #121619;
+      color: white;
+    }
+  
+    .headerContainer h1 {
+      font-size: 40px;
+      height: 30px;
+      color: white;
+    }
+  
+    .headerContainer p {
+      font-size: 30px;
+      color: white;
+    }
+  
+    .headerContainer button {
+      background-color: white;
+      color: #121619;
+      margin-bottom: 30px;
+    }
+  
+    .headerContainer button:hover {
+      background-color: rgb(225, 225, 225);
+      color: #121619;
+    }
+  }
+  

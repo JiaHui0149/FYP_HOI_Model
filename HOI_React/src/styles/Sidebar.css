@@ -1,0 +1,15 @@
+.sidebar {
+    background-color: #f0f0f0;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .sidebar-title{
+    font-size: 1.5rem;
+    margin: 0; 
+    padding-bottom: 10px; 
+  }
+
+  .filter-section {
+    margin-bottom: 20px;
+  }

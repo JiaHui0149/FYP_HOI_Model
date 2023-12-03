@@ -1,0 +1,21 @@
+{
+  "apiKey": "AIzaSyC-ffDdMn-HX7dnxHC-jrLf1EWFSwEkLY4",
+  "authDomain": "hoi-system.firebaseapp.com",
+  "projectId": "hoi-system",
+  "databaseURL": "https://hoi-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+  "storageBucket": "hoi-sy        stem.appspot.com",
+  "messagingSenderId": "460144803322",
+  "appId": "1:460144803322:web:736c900f95ec5a1ee2b843",
+  "measurementId": "G-TCZS34CT32",
+  "type": "service_account",
+  "project_id": "hoi-system",
+  "private_key_id": "828dba5a4da91e83c94a366fae8beabe4b614790",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCviUAdOvfTboXg\n+L/6Sp0T7VO59icrMGnitU0cgjYI65his7d0y1mJOxTNA/3o6t40fZwMDyvP8iIq\nrBaEkB1PN58xAM42C0ihQhhAelErjHmG6kt/21LY5kay5PC9eua5PJAlq8G/4pu/\nyEVsU0AO7J7ZB85yXAN1Ex9FM9tgDh7KQZDEuu3KChVJ9ZbzpWb9zggAEIA6aHUs\na22yXdAHJtDeXK3SNrnEDW+PAn1DdYkUoEYVmeQHDYMmQnkkvajKTn8CabFRoL4Q\ny58E9sPz/TD8dmtHpU80at4pZNKjtm5yTGo7INSFLLpSa1BawpLpplVhoY6wddBP\nCn3QvfKRAgMBAAECggEABsoFbYv+EVKlQXAFhtHzdNWZRyg+2BQJiF/wQVHE8r/f\n9zNRvWXvCth647oLjEJnQTr5edrtXB/Wk/VvcoWbaJizYsMP9rWlg70pcHb6pDdM\n7PurW2DZebOgWONzbzStb00pGxfjSL9kPDzr+HZY1CrxMt4zLSejZ5gLfdL1YWfi\nAMGe4nveLuwr2OuBSI6zMc9U9MIVuz2m37Md1SNrr+XVCB9FNiZ0NFRvIcZmdGMA\nWs5WpgJoyZ3dj8lzEdRZbTsWbSCgk43Wqrh8ZAn0twAdgfg1lz15icA3SNjQNT/4\n/1i2VNa6hhDxJSsPRmRCmgouwQ3FjQjvKJf8hxXzcQKBgQDYUalubn7hww0KOcQU\nnCU5Dt69967loN5CiF185OEQD5tVodspM3ryQwW07SviDLQrL6lL25UPl3tGMrYV\n9O7UludRKeGPDVKrU5VFTcS7bjNKMJO/rzLOjBlPz4dyVGjeUPMGvSBm2rFPoo0Y\n+wa00bTSkk/4BtxU9Q/zv2qF2QKBgQDPvG0LhsNQf6See7GGx4HSBp2bYETfHjXH\nWPCFsh31FYN1lc53+nJRvTW8lJrEpNIBuseDi9hcjP8Ep+axR3L/XlmnrQwqbd+c\nkVBlbbx5MC+0cPeLj0AAa4syL4mYJ34EJIJmfd6O3SkO67zxnaQVaLyikxJnpKCB\nvJY2b4HHeQKBgDrpQnNItFVXgV2fjb7vJ1P6sL6bjY4L2XvVF2DEFGcDWRJhGgaG\ndp0zk4JKdQEC5K4+NKTsEBRG9NORS/V+1uwejLCV70++GR1/jc9p9oH06RLzV8mE\nNRn7HYmWwxRn2IdzFDxplUFtnYxKgJKlCpaD5fLS1eR+OdMJSmbfYmtBAoGASMy4\nzjxJAFHrJ9sjSJ9sIGVPIF9pY2Ob5yOFDuVv2C7U5gU82RD8tSaAyXiukFFOg2qo\ndrIwfaavzDrm/qOSamnvM3LSe6ALqDvIl/MQBMxdO3gHWHI4NK17l3fPWXIlmGAP\nDsn3j8tzkxYMHgRnt1UAHl06KvYnha/IWIVVTskCgYEAi1jBEDY0pqOz6k0KQGh7\nUmjDSS62XQPvVC6J3RodGevKoEnwwjWUiBD3bx36WS9NONZ6BV67kEHItJt2tMSr\nhQfyyd/inrxeoRVyAmFMTp1+EpO7sthNWC4lHWWNoyl2vmr9ptcIGgUAg2rfTjmT\nljLXIusNWt2CBjuY/CZX89g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lq49r@hoi-system.iam.gserviceaccount.com",
+  "client_id": "111899339000779160657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lq49r%40hoi-system.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

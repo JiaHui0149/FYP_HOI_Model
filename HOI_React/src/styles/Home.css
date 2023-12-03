@@ -1,0 +1,143 @@
+.home {
+  padding-top: 50px;
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #2c3e50, #45aaf2);
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 50px;
+}
+
+.headerContainer {
+  margin-right: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  border: 3px solid #ccc;
+}
+
+.dataBox {
+  text-align: center;
+  height: 300px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  flex: 1;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.dataBox h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  font-family: 'Nunito', sans-serif;
+}
+
+.dataBox p {
+  font-size: 16px;
+  color: #666;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+
+.dataBox.blue {
+  background-color: #ade6d8; /* Blue color */
+}
+
+.dataBox.green {
+  background-color: #add8e6; /* Green color */
+}
+
+.dataBox.orange {
+  background-color: #adbce6; /* Orange color */
+}
+
+@media only screen and (max-width: 650px) {
+  .home {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .headerContainer {
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .headerContainer h1 {
+    font-size: 40px;
+    color: white;
+  }
+
+  .alert-list {
+    width:fit-content; 
+    padding: 20px;
+  }
+  
+}
+
+.alert-box h3, .alert-box p {
+  font-size: 16px;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+}
+
+.image-fixed-size {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+.latestAlert h2 {
+  color: black;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.5);
+  margin-left: 10px;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.alert-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.latestAlert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  display: flex;
+  margin-top: 20px;
+  margin-right: 40px;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  border: 3px solid #ccc;
+}
+
+.placeholder{
+  text-align: left;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  height: 300px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  flex: 1;
+}

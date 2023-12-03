@@ -1,0 +1,135 @@
+.navbar {
+  width: 100%;
+  height: 80px;
+  background-color: #121619;
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar .leftSide {
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.navbar .leftSide img {
+  width: 160px;
+  height: 80px
+}
+
+.navbar .rightSide {
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+}
+
+.navbar .rightSide button {
+  background-color: red;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.navbar .rightSide svg {
+  font-size: 40px;
+}
+
+
+.navbar #open {
+  padding-left: 0px;
+}
+.navbar #open img {
+  display: none;
+}
+
+.navbar #close img {
+  display: inherit;
+}
+
+.navbar #open .hiddenLinks {
+  display: inherit;
+  margin-left: 30px;
+}
+
+.navbar #close .hiddenLinks {
+  display: none;
+}
+
+.navbar #open a {
+  width: 70px;
+  margin: 5px;
+}
+
+/* Styling for the Logout button */
+.logout-button {
+  background-color: #a0522d; /* Red background color */
+  color: white; /* White text color */
+  padding: 10px 20px; /* Padding around the button text */
+  border: none; /* Remove button border */
+  border-radius: 4px; /* Rounded corners */
+  cursor: pointer;
+  font-size: 16px; /* Adjust font size as needed */
+  transition: background-color 0.3s ease; /* Smooth background color transition on hover */
+
+  height: 30px; /* Set the desired height */
+  width: 150px; /* Set the desired width */
+  margin: 20px;
+  margin-top: 25px;
+
+  /* Center button text vertically and horizontally */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  
+}
+
+/* Hover effect: Darken the button background color on hover */
+.logout-button:hover {
+  background-color: #8b4513; /* Darker red */
+}
+
+@media only screen and (max-width: 900px) {
+  .navbar .rightSide a {
+    width: 70px;
+  }
+  .navbar .leftSide {
+    padding-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar .rightSide a {
+    display: none;
+  }
+
+  .navbar .rightSide {
+    justify-content: flex-end;
+    padding-right: 10px;
+  }
+
+  .navbar .rightSide button {
+    display: inherit;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .navbar .rightSide button {
+    display: none;
+  }
+
+  .hiddenLinks {
+    display: none;
+  }
+}
+
